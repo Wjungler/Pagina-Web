@@ -1,15 +1,20 @@
-/*Esto generales*/
-  *{
-    margin: 0;
-    padding: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  body  {
-    font-family: sans-serif;
-    }
- .contenedor{
-   width: 1200px;
-   margin: 0 auto;
- }
+/*ESTILOS GENERALES*/
+
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+.contenedor{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/*HEADER*/
